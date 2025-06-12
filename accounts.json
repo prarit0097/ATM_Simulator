@@ -1,0 +1,21 @@
+{
+  "123456": {
+    "name": "Raj Sharma",
+    "pin": "4321",
+    "balance": 10000.0,
+    "transactions": [
+      {
+        "type": "deposit",
+        "amount": 10000.0,
+        "timestamp": "12-06-2025 15:41:11",
+        "balance_after": 20000.0
+      },
+      {
+        "type": "withdraw",
+        "amount": 10000.0,
+        "timestamp": "12-06-2025 15:41:11",
+        "balance_after": 10000.0
+      }
+    ]
+  }
+}
